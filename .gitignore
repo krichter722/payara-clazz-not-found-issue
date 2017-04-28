@@ -1,0 +1,4 @@
+target/
+payara-clazz-not-found-issue-web/target/
+payara-clazz-not-found-issue-jar/target/
+payara-clazz-not-found-issue-ear/target/
